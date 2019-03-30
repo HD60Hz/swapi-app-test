@@ -1,4 +1,4 @@
-# StarWars
+# Star Wars
 [![Build Status](https://travis-ci.com/kplaricos/swapi-app.svg?token=HjZHWQFqr4Mr2cqTUVaC&branch=master)](https://travis-ci.com/kplaricos/swapi-app)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.

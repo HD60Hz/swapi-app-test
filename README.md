@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - NumeralJs: Used to format population numbers [read more here](http://numeraljs.com/)
 - ngx-translate: Used for i18n browser translation (french and english). [read more here](http://www.ngx-translate.com/)
 
-## Getting Start
+## Getting Started
 
 Need to install project dependencies depending on your packages manager
 
